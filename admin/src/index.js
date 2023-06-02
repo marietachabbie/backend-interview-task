@@ -30,7 +30,7 @@ app.get("/report-csv", async (req, res) => {
       Utils.generateReport,
       Utils.exportReport,
       Utils.logReport,
-    )()
+    )(res)
     res.send("Sucessfully reported!")
   } catch (err) {
     res.status(500).send({

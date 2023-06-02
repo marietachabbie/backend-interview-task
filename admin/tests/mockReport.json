@@ -1,0 +1,98 @@
+[
+    {
+          "user": "1",
+          "firstName": "Billy",
+          "lastName": "Bob",
+          "date": "2020-01-01",
+          "holding": "The Small Investment Company",
+          "value": 1400
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-01-01",
+          "holding": "The Big Investment Company",
+          "value": 10000
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-01-01",
+          "holding": "The Small Investment Company",
+          "value": 10000
+    },
+    {
+          "user": "1",
+          "firstName": "Billy",
+          "lastName": "Bob",
+          "date": "2020-02-01",
+          "holding": "The Small Investment Company",
+          "value": 1300
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-02-01",
+          "holding": "The Big Investment Company",
+          "value": 11000
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-02-01",
+          "holding": "The Small Investment Company",
+          "value": 11000
+    },
+    {
+          "user": "1",
+          "firstName": "Billy",
+          "lastName": "Bob",
+          "date": "2020-03-01",
+          "holding": "The Small Investment Company",
+          "value": 12000
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-03-01",
+          "holding": "The Big Investment Company",
+          "value": 10750
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-03-01",
+          "holding": "The Small Investment Company",
+          "value": 6450
+    },
+    {
+          "user": "2",
+          "firstName": "Sheila",
+          "lastName": "Aussie",
+          "date": "2020-03-01",
+          "holding": "Capital Investments",
+          "value": 4300
+    },
+    {
+          "user": "3",
+          "firstName": "John",
+          "lastName": "Smith",
+          "date": "2020-03-01",
+          "holding": "The Big Investment Company",
+          "value": 120000
+    },
+    {
+          "user": "3",
+          "firstName": "John",
+          "lastName": "Smith",
+          "date": "2020-03-01",
+          "holding": "Capital Investments",
+          "value": 30000
+    }
+]

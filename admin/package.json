@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon src/index.js",
     "develop": "nodemon src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "config": "^3.3.3",
     "eslint": "^8.41.0",
     "express": "^4.17.1",
+    "jest": "^29.5.0",
     "ramda": "^0.27.1"
   }
 }
