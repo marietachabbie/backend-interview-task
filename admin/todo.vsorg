@@ -1,0 +1,38 @@
+⊙ TODO admin service
+ ⊘ DONE retrieve all () accounts from financial-companies service
+   COMPLETED:[2nd June 2023, 12:35:13 pm]
+ ⊘ DONE retrieve all () investments from investments service
+   COMPLETED:[2nd June 2023, 12:35:14 pm]
+ ⊘ DONE generate the reposrt as array ob objects () csv ()
+   COMPLETED:[2nd June 2023, 12:35:16 pm]
+ ⊘ DONE there can be multiple holdings for one account -> single row for every one
+   COMPLETED:[2nd June 2023, 12:35:19 pm]
+⊙ TODO implement or use any convenient package to parse json to csv
+ ⊘ DONE headers should be -> |User|First Name|Last Name|Date|Holding|Value|
+   COMPLETED:[2nd June 2023, 12:35:35 pm]
+ ⊘ DONE holding should be the name of the holding account given by the financial-companies service
+   COMPLETED:[2nd June 2023, 12:35:36 pm]
+ ⊘ DONE holding value can be calculated by investmentTotal * investmentPercentage
+   COMPLETED:[2nd June 2023, 12:35:37 pm]
+ ⊘ DONE report should be sent to the /export route of the investments service (content-type application/json)
+   COMPLETED:[2nd June 2023, 12:35:39 pm]
+⊙ DONE ensure use of up to date packages and libraries (the service is known to use deprecated packages)
+   COMPLETED:[2nd June 2023, 11:20:38 am]
+⊙ TODO implement unit tests with
+ ⊘ DONE happy path
+   COMPLETED:[2nd June 2023, 1:16:44 pm]
+ ⊘ unhappy path
+⊙ TODO update readme with
+ ⊘ DONE new routes
+   COMPLETED:[2nd June 2023, 1:22:57 pm]
+ ⊘ DONE how to run tests
+   COMPLETED:[2nd June 2023, 1:22:59 pm]
+ ⊘ answers to the questions regarding:
+  ⊖ DONE security
+   COMPLETED:[2nd June 2023, 1:43:18 pm]
+  ⊖ DONE scalability
+   COMPLETED:[2nd June 2023, 1:43:22 pm]
+  ⊖ DONE improvements
+   COMPLETED:[2nd June 2023, 1:43:24 pm]
+⊙ DONE review carefully readme before commiting
+   COMPLETED:[2nd June 2023, 1:43:25 pm]

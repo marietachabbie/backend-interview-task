@@ -1,0 +1,25 @@
+// Investments
+GET http://localhost:8081/investments/
+
+###
+GET http://localhost:8081/investments/1
+
+###
+POST http://localhost:8081/investments/export
+content-type: application/json
+
+[{}]
+
+// Financial Companies
+###
+GET http://localhost:8082/companies
+
+###
+GET http://localhost:8082/companies/1
+
+// Admin
+###
+GET http://localhost:8083/investments/1
+
+###
+GET http://localhost:8083/report-csv/
